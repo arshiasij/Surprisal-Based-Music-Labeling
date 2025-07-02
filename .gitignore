@@ -1,0 +1,19 @@
+# Audio files (big files shouldn't go into Git)
+*.wav
+*.mp3
+*.flac
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Env
+.env
+.venv/
+venv/
